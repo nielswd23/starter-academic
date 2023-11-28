@@ -1,20 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The Relative Contributions of Taxonomic and Thematic Knowledge When Making
-  Similarity Judgements
+title: 'Influence of input on part of speech tagging: Comparing adult directed and
+  child directed speech'
 subtitle: ''
 summary: ''
 authors:
 - Niels Dickson
-- Christopher R. Cox
 tags: []
 categories: []
-date: '2020-04-01'
-lastmod: 2020-12-13T22:42:55-06:00
+date: '2021-12-10'
+lastmod: 2023-11-28T14:49:24-08:00
 featured: true
 draft: false
-url_pdf: https://repository.lsu.edu/honors_etd/437
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -30,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-14T04:42:54.570114Z'
+publishDate: '2023-11-28T22:49:23.632905Z'
 publication_types:
 - '3'
 abstract: ''

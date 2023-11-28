@@ -19,7 +19,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Language Acquisition
-- Cognitive Constraints on Language Processing
+- Syntactic Representation
+- Syntactic Islands
+- Computational Modeling
 - Efficient Communication
 
 education:
@@ -67,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Niels Dickson is a graduate student in the Language Science department at the University of California, Irvine. He is co-advised by Dr. Lisa Pearl and Dr. Richard Futrell. Currently, he is working on a research project addressing questions of language acquisition and noisy representation.
+Niels is a graduate student in the Language Science department at the University of California, Irvine. He is co-advised by Dr. Lisa Pearl and Dr. Richard Futrell. His research investigates questions in the field of language acquisition with a focus on syntactic representation and computational models of representation.
